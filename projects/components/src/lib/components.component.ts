@@ -4,7 +4,7 @@ import { Component, OnInit } from '@angular/core';
   selector: 'ex-components',
   template: `
     <p>
-      This is component...
+      This is component...!!
     </p>
   `,
   styles: [
